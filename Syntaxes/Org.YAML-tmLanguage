@@ -2,7 +2,7 @@
 ---
 name: orgmode
 scopeName: text.orgmode
-fileTypes: [org, tasks]
+fileTypes: [txt, org, tasks]
 uuid: e4fb86ca-d96b-4094-ac47-d14dbae2d088
 
 patterns:
