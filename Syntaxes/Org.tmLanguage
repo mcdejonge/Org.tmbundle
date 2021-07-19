@@ -4,6 +4,7 @@
 <dict>
 	<key>fileTypes</key>
 	<array>
+		<string>txt</string>
 		<string>org</string>
 		<string>tasks</string>
 	</array>
